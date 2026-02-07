@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **NellFinn-dev/NellFinn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,13 +16,10 @@ Mechanical Morbs - Bpa 2023-2024 SET submission (Team credits, documentation and
 Aqaupolis - Bpa 2024-2025 SET submission (Team credits, documentation and source code on this page)
 ![ezgif-4b459760df7fd292](https://github.com/user-attachments/assets/1a38447d-9553-4292-b6f4-6d915b95ce50)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently in school studying Computer Science!
 
-
+Some of my interests are
+Music, I compose and play the Clarinet 
+VIDEO GAMES
+FOOD
+ETC!!!!!!!
