@@ -36,3 +36,5 @@ https://bsky.app/profile/butteredtoasttt.bsky.social
 https://youtube.com/@burnedtoast6727?si=CDq-fS8UlJq1RmTB
 
 https://toastbuttered.itch.io/
+
+https://bntoasttt.newgrounds.com/
