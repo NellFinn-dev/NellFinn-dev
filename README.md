@@ -32,3 +32,7 @@ Feel free to explore my work or reach out! I'm always open to collaboration
 https://btoasttt.carrd.co/
 
 https://bsky.app/profile/butteredtoasttt.bsky.social 
+
+https://youtube.com/@burnedtoast6727?si=CDq-fS8UlJq1RmTB
+
+https://toastbuttered.itch.io/
