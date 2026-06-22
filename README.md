@@ -1,5 +1,5 @@
 ## Hi! I'm Birt! 
-I'm a Computer Science student and hobbyist game developer. I enjoy creating small projects, writing music, creaitng art and collaborating with others!
+I'm a Computer Engineering student and hobbyist game developer. I enjoy creating small projects, writing music, creaitng art and collaborating with others!
 
 
 ## - My current project:
